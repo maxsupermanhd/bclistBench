@@ -1,3 +1,6 @@
+set terminal png
+set output 'output.png'
+
 set xlabel 'iteration'
 
 set ylabel 'time (micorseconds)'
